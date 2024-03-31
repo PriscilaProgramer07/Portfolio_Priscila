@@ -37,6 +37,13 @@ This project requires Python 3.x, along with Jupyter Notebook for exploring the 
 pip install -r requirements.txt
 ```
 
+To run the implementations, ensure that you have Python installed on your system along with the following packages:
+
+    Numpy
+    NumExpr
+    Cython
+    *Others.
+
 For Cython modules, ensure Cython is installed and compile them as described in the provided setup instructions.
 
 ## Usage
